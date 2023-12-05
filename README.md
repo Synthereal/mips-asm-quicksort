@@ -1,2 +1,2 @@
-# Assembly_Sudoku
-Text-based sudoku game made in assembly language.
+# mips-asm-quicksort
+quick sort algorithm programmed in MIPS assembly
